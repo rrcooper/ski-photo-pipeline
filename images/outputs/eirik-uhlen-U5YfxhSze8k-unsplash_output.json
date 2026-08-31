@@ -1,0 +1,33 @@
+{
+  "from": "+15551234567",
+  "messageSid": "SMtest1234567890",
+  "fileName": "eirik-uhlen-U5YfxhSze8k-unsplash.jpg",
+  "media": {
+    "url": "https://raw.githubusercontent.com/rrcooper/ski-photo-pipeline/refs/heads/main/images/eirik-uhlen-U5YfxhSze8k-unsplash.jpg",
+    "contentType": "image/jpeg"
+  },
+  "aiTags": [
+    "hero_shot",
+    "kids",
+    "ski",
+    "happy",
+    "playful",
+    "snow",
+    "terrain",
+    "outdoor",
+    "mountain"
+  ],
+  "allTags": [
+    "shred",
+    "ski",
+    "hero_shot",
+    "kids",
+    "happy",
+    "playful",
+    "snow",
+    "terrain",
+    "outdoor",
+    "mountain"
+  ],
+  "driveDescription": "shred, ski, hero_shot, kids, happy, playful, snow, terrain, outdoor, mountain"
+}

@@ -1,0 +1,25 @@
+{
+  "from": "+15551234567",
+  "messageSid": "SMtest1234567890",
+  "fileName": "kipras-streimikis-39-0VXkvcbw-unsplash.jpg",
+  "media": {
+    "url": "https://raw.githubusercontent.com/rrcooper/ski-photo-pipeline/refs/heads/main/images/kipras-streimikis-39-0VXkvcbw-unsplash.jpg",
+    "contentType": "image/jpeg"
+  },
+  "aiTags": [
+    "ski",
+    "gondola",
+    "mountains",
+    "blue_sky",
+    "equipment"
+  ],
+  "allTags": [
+    "shred",
+    "ski",
+    "gondola",
+    "mountains",
+    "blue_sky",
+    "equipment"
+  ],
+  "driveDescription": "shred, ski, gondola, mountains, blue_sky, equipment"
+}

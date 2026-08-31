@@ -1,0 +1,27 @@
+{
+  "from": "+15551234567",
+  "messageSid": "SMtest1234567890",
+  "fileName": "greg-rosenke-Q1EnzSmVnqo-unsplash.jpg",
+  "media": {
+    "url": "https://raw.githubusercontent.com/rrcooper/ski-photo-pipeline/refs/heads/main/images/greg-rosenke-Q1EnzSmVnqo-unsplash.jpg",
+    "contentType": "image/jpeg"
+  },
+  "aiTags": [
+    "kids",
+    "ski",
+    "beginner",
+    "powder",
+    "action",
+    "confident"
+  ],
+  "allTags": [
+    "shred",
+    "ski",
+    "kids",
+    "beginner",
+    "powder",
+    "action",
+    "confident"
+  ],
+  "driveDescription": "shred, ski, kids, beginner, powder, action, confident"
+}

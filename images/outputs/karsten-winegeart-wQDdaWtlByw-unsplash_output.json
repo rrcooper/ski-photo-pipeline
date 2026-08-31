@@ -1,0 +1,34 @@
+{
+  "from": "+15551234567",
+  "messageSid": "SMtest1234567890",
+  "fileName": "karsten-winegeart-wQDdaWtlByw-unsplash.jpg",
+  "media": {
+    "url": "https://raw.githubusercontent.com/rrcooper/ski-photo-pipeline/refs/heads/main/images/karsten-winegeart-wQDdaWtlByw-unsplash.jpg",
+    "contentType": "image/jpeg"
+  },
+  "aiTags": [
+    "hero_shot",
+    "snowboard",
+    "powder",
+    "happy",
+    "excited",
+    "adventurous",
+    "forest",
+    "action",
+    "youth_ski"
+  ],
+  "allTags": [
+    "shred",
+    "ski",
+    "hero_shot",
+    "snowboard",
+    "powder",
+    "happy",
+    "excited",
+    "adventurous",
+    "forest",
+    "action",
+    "youth_ski"
+  ],
+  "driveDescription": "shred, ski, hero_shot, snowboard, powder, happy, excited, adventurous, forest, action, youth_ski"
+}

@@ -1,0 +1,29 @@
+{
+  "from": "+15551234567",
+  "messageSid": "SMtest1234567890",
+  "fileName": "banff-sunshine-village-UoBE_wJ-suk-unsplash.jpg",
+  "media": {
+    "url": "https://raw.githubusercontent.com/rrcooper/ski-photo-pipeline/refs/heads/main/images/banff-sunshine-village-UoBE_wJ-suk-unsplash.jpg",
+    "contentType": "image/jpeg"
+  },
+  "aiTags": [
+    "action",
+    "ski",
+    "adults",
+    "powder",
+    "mountains",
+    "focused",
+    "hero_shot"
+  ],
+  "allTags": [
+    "shred",
+    "ski",
+    "action",
+    "adults",
+    "powder",
+    "mountains",
+    "focused",
+    "hero_shot"
+  ],
+  "driveDescription": "shred, ski, action, adults, powder, mountains, focused, hero_shot"
+}

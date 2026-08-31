@@ -1,0 +1,25 @@
+{
+  "from": "+15551234567",
+  "messageSid": "SMtest1234567890",
+  "fileName": "ryan-fleischer-3Srp3mB75Rg-unsplash.jpg",
+  "media": {
+    "url": "https://raw.githubusercontent.com/rrcooper/ski-photo-pipeline/refs/heads/main/images/ryan-fleischer-3Srp3mB75Rg-unsplash.jpg",
+    "contentType": "image/jpeg"
+  },
+  "aiTags": [
+    "ski",
+    "chair_lift",
+    "sunny",
+    "adults",
+    "action"
+  ],
+  "allTags": [
+    "shred",
+    "ski",
+    "chair_lift",
+    "sunny",
+    "adults",
+    "action"
+  ],
+  "driveDescription": "shred, ski, chair_lift, sunny, adults, action"
+}

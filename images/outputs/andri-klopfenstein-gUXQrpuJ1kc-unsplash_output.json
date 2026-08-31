@@ -1,0 +1,29 @@
+{
+  "from": "+15551234567",
+  "messageSid": "SMtest1234567890",
+  "fileName": "andri-klopfenstein-gUXQrpuJ1kc-unsplash.jpg",
+  "media": {
+    "url": "https://raw.githubusercontent.com/rrcooper/ski-photo-pipeline/refs/heads/main/images/andri-klopfenstein-gUXQrpuJ1kc-unsplash.jpg",
+    "contentType": "image/jpeg"
+  },
+  "aiTags": [
+    "ski",
+    "advanced",
+    "action",
+    "hero_shot",
+    "powder",
+    "turning",
+    "focused"
+  ],
+  "allTags": [
+    "shred",
+    "ski",
+    "advanced",
+    "action",
+    "hero_shot",
+    "powder",
+    "turning",
+    "focused"
+  ],
+  "driveDescription": "shred, ski, advanced, action, hero_shot, powder, turning, focused"
+}
