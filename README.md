@@ -118,6 +118,15 @@ dropping them.
 - `ski_relevant`: open-ended, but scoped to what's relevant to a ski school
 - `unrestricted`: no scoping, mainly useful for testing
 
+## License
+
+The code in this repository (workflow JSON, Python, and prompts) is
+available under the [MIT License](LICENSE).
+
+Sample photos in `images/` are sourced from Unsplash and are covered by
+the separate [Unsplash License](https://unsplash.com/license), not the
+MIT license above. See `images/README.md` for full attribution.
+
 ## What I'd add next
 
 - **Wire in `quality_check`** as a real pre-upload gate (drafted, not
@@ -126,5 +135,4 @@ dropping them.
 - **A caption-generation prompt.** Drafted during development, then
   descoped to keep the core tagging pipeline focused and reviewable.
 - **A privacy-flag prompt.** Flagging photos with clearly identifiable
-  minors' faces, for a human review step before any public use. Came up
-  in conversation with the client as a real concern, not yet built.
+  minors' faces, for a human review step before any public use.
