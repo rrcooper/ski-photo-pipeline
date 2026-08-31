@@ -19,19 +19,14 @@ before assuming the lighter, download-only terms apply.
 
 ### Attribution
 
-| File | Photographer | Unsplash link |
+| File | Photographer | Link |
 |---|---|---|
-| [your-filename].jpg | [Banff Sunshine Village](https://unsplash.com/@sunshinevillage) | [View photo](https://unsplash.com/photos/2-person-in-yellow-jacket-and-blue-helmet-riding-ski-blades-on-snow-covered-mountain-during-UoBE_wJ-suk) |
-| andri-klopfenstein-gUXQrpuJ1kc-unsplash.jpg |  |  |
-| eirik-uhlen-U5YfxhSze8k-unsplash.jpg |  |  |
-| banff-sunshine-village-UoBE_wJ-suk-unsplash.jpg |  | https://unsplash.com/photos/2-person-in-yellow-jacket-and-blue-helmet-riding-ski-blades-on-snow-covered-mountain-during-UoBE_wJ-suk |
-| banff-sunshine-village-ONYcbAjZq5A-unsplash.jpg |  |  |
-| karsten-winegeart-L7289nHzVgI-unsplash.jpg |  |  |
-
-Photo by <a href="https://unsplash.com/@sunshinevillage?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Banff Sunshine Village</a> on <a href="https://unsplash.com/photos/2-person-in-yellow-jacket-and-blue-helmet-riding-ski-blades-on-snow-covered-mountain-during-UoBE_wJ-suk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-_(Populate this table as photos are added. Format: "Photo by [Name] on
-[Unsplash](link-to-photo-or-profile)".)_
+| andri-klopfenstein-gUXQrpuJ1kc-unsplash.jpg | [Andri Klopfenstein](https://unsplash.com/@andri77) | [Unsplash](https://unsplash.com/photos/a-person-riding-skis-down-a-snow-covered-slope-gUXQrpuJ1kc) |
+| banff-sunshine-village-UoBE_wJ-suk-unsplash.jpg | [Banff Sunshine Village](https://unsplash.com/@sunshinevillage) | [Unsplash](https://unsplash.com/photos/2-person-in-yellow-jacket-and-blue-helmet-riding-ski-blades-on-snow-covered-mountain-during-UoBE_wJ-suk) |
+| eirik-uhlen-U5YfxhSze8k-unsplash.jpg | [Eirik Uhlen](https://unsplash.com/@uhlen96) | [View photo](https://unsplash.com/photos/2-person-in-white-pants-and-black-snow-ski-blades-standing-on-snow-covered-ground-during-U5YfxhSze8k) |
+| karsten-winegeart-wQDdaWtlByw-unsplash.jpg | [Karsten Winegeart](https://unsplash.com/@_karsten) | [View photo](https://unsplash.com/photos/person-in-blue-jacket-and-pink-pants-riding-on-snowboard-during-daytime-wQDdaWtlByw) |
+| kipras-streimikis-39-0VXkvcbw-unsplash.jpg | [Kipras Štreimikis](https://unsplash.com/@kkipras) | [View photo](https://unsplash.com/photos/selective-focus-photography-of-ski-blades-on-blue-cable-car-39-0VXkvcbw) |
+| ryan-fleischer-3Srp3mB75Rg-unsplash.jpg | [Ryan Fleischer](https://unsplash.com/@flyshoot) | [View photo](https://unsplash.com/photos/two-skiers-ride-a-chairlift-against-a-blue-sky-3Srp3mB75Rg) |
 
 ## Sample outputs
 
