@@ -21,7 +21,14 @@ before assuming the lighter, download-only terms apply.
 
 | File | Photographer | Unsplash link |
 |---|---|---|
-| _fill in per photo_ | _fill in_ | _fill in_ |
+| [your-filename].jpg | [Banff Sunshine Village](https://unsplash.com/@sunshinevillage) | [View photo](https://unsplash.com/photos/2-person-in-yellow-jacket-and-blue-helmet-riding-ski-blades-on-snow-covered-mountain-during-UoBE_wJ-suk) |
+| andri-klopfenstein-gUXQrpuJ1kc-unsplash.jpg |  |  |
+| eirik-uhlen-U5YfxhSze8k-unsplash.jpg |  |  |
+| banff-sunshine-village-UoBE_wJ-suk-unsplash.jpg |  | https://unsplash.com/photos/2-person-in-yellow-jacket-and-blue-helmet-riding-ski-blades-on-snow-covered-mountain-during-UoBE_wJ-suk |
+| banff-sunshine-village-ONYcbAjZq5A-unsplash.jpg |  |  |
+| karsten-winegeart-L7289nHzVgI-unsplash.jpg |  |  |
+
+Photo by <a href="https://unsplash.com/@sunshinevillage?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Banff Sunshine Village</a> on <a href="https://unsplash.com/photos/2-person-in-yellow-jacket-and-blue-helmet-riding-ski-blades-on-snow-covered-mountain-during-UoBE_wJ-suk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 _(Populate this table as photos are added. Format: "Photo by [Name] on
 [Unsplash](link-to-photo-or-profile)".)_
